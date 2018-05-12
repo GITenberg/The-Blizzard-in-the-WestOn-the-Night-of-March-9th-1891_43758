@@ -1,0 +1,29 @@
+_repo: The-Blizzard-in-the-WestOn-the-Night-of-March-9th-1891_43758
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43758-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2013-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blizzards -- England -- Cornwall (County) -- History'
+- !lcsh 'Cornwall (England : County) -- History'
+- !lcc 'DA'
+- !lcsh 'Devon (England) -- History'
+title: "The Blizzard in the West\r\nBeing as Record and Story of the Disastrous Storm\
+  \ which Raged Throughout Devon and Cornwall, and West Somerset, On the Night of\
+  \ March 9th, 1891"
+url: http://www.gutenberg.org/ebooks/43758
